@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: skean_left
-  - board: skean_right
+  - board: skean_left//zmk
+  - board: skean_right//zmk
